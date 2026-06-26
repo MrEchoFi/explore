@@ -1,5 +1,6 @@
 ---
 items:
+ - MrEchoFi/BannerGrapV2
  - tdsmith/github-snooze-button
  - octobox/octobox
  - semantic-release/semantic-release
