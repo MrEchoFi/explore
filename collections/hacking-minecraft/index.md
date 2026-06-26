@@ -1,5 +1,6 @@
 ---
 items:
+ - MrEchoFi/BannerGrapV2
  - docker-archive-public/docker.dockercraft
  - minefold/hubot-minecraft
  - leereilly/hubot-minecraft-skin
