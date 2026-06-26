@@ -1,5 +1,6 @@
 ---
 items:
+ - MrEchoFi/BannerGrapV2
  - swisskyrepo/PayloadsAllTheThings
  - vitalysim/Awesome-Hacking-Resources
  - danielmiessler/SecLists
